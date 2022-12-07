@@ -1,3 +1,3 @@
-# Official Rust Book
+# Learning Rust!
 
-URL: https://doc.rust-lang.org/book/title-page.html
+Learning Rust from the official Rust book, available [here](https://doc.rust-lang.org/book/title-page.html)!
